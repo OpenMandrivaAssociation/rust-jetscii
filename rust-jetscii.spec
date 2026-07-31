@@ -5,8 +5,8 @@
 %global crate jetscii
 
 Name:           rust-%{crate}
-Version:        0.4.4
-Release:        3%{?dist}
+Version:        0.5.3
+Release:        1%{?dist}
 Summary:        Efficiently search strings and byte slices for sets of ASCII characters
 
 # Upstream license specification: MIT OR Apache-2.0
